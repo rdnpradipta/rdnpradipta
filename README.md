@@ -1,7 +1,9 @@
 ### Ardian Pradipta
 ----
 Hi there👋
+
 🔭I'm a software engineer, currently focus in backend development.
+
 🌱Love to tinker and explore other domain.
 
 Feel free to use anything here for free. (Also feel free if you want to contribute).
